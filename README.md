@@ -34,6 +34,7 @@ Game footage was screen-recorded from a private YouTube channel containing full-
 
 ```bash
 ffmpeg -i input.mp4 -ss 00:00:05.50 -t 0.3 -an output.mp4
+```
 
 ### 2. Cropping Video Size
 
